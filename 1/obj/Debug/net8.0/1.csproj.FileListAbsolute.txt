@@ -1,0 +1,14 @@
+C:\Элинины штуки, кот-ые очень для неё важны\Homework_les4\1\bin\Debug\net8.0\1.exe
+C:\Элинины штуки, кот-ые очень для неё важны\Homework_les4\1\bin\Debug\net8.0\1.deps.json
+C:\Элинины штуки, кот-ые очень для неё важны\Homework_les4\1\bin\Debug\net8.0\1.runtimeconfig.json
+C:\Элинины штуки, кот-ые очень для неё важны\Homework_les4\1\bin\Debug\net8.0\1.dll
+C:\Элинины штуки, кот-ые очень для неё важны\Homework_les4\1\bin\Debug\net8.0\1.pdb
+C:\Элинины штуки, кот-ые очень для неё важны\Homework_les4\1\obj\Debug\net8.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Элинины штуки, кот-ые очень для неё важны\Homework_les4\1\obj\Debug\net8.0\1.AssemblyInfoInputs.cache
+C:\Элинины штуки, кот-ые очень для неё важны\Homework_les4\1\obj\Debug\net8.0\1.AssemblyInfo.cs
+C:\Элинины штуки, кот-ые очень для неё важны\Homework_les4\1\obj\Debug\net8.0\1.csproj.CoreCompileInputs.cache
+C:\Элинины штуки, кот-ые очень для неё важны\Homework_les4\1\obj\Debug\net8.0\1.dll
+C:\Элинины штуки, кот-ые очень для неё важны\Homework_les4\1\obj\Debug\net8.0\refint\1.dll
+C:\Элинины штуки, кот-ые очень для неё важны\Homework_les4\1\obj\Debug\net8.0\1.pdb
+C:\Элинины штуки, кот-ые очень для неё важны\Homework_les4\1\obj\Debug\net8.0\1.genruntimeconfig.cache
+C:\Элинины штуки, кот-ые очень для неё важны\Homework_les4\1\obj\Debug\net8.0\ref\1.dll
